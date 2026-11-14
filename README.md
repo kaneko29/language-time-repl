@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Temporal world models: a small reimplementation
 
 A practice reimplementation of the **time probes** from
@@ -36,6 +35,3 @@ empty prompt. By default the best layer is chosen on the test set, which is
 slightly optimistic (use `--val_select` to avoid that). See the status note at
 the top of `reimplementation/temporal_world_models.py` for what was scaffolded
 and what was written by hand.
-=======
-# language-time-repl
->>>>>>> f4fb7e60514f87bcb170d0280c0f8e26fb5f473d
